@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text small {
+    color: #888;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+  }
+
+#logo{
+    border-radius: 180%;
+}
